@@ -1,7 +1,7 @@
 ## Skinstone- App
 ---
 <p>
-This Is Website is an International Eccomers Platform . You May Buy Prducts And You Can Cosmetins .This Is Collabrative  Project Build in 5 days
+This is a skincare website known as skinstone app where we can buy skincare and cosmetic products
 </p>
 
 * [Click Here](https://elegant-sprite-192e51.netlify.app/ "Movie App") to view the deployed website.
